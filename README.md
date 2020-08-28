@@ -1,16 +1,17 @@
 # Content-Management-System
 To use the website follow the steps mentioned below:
 
-git clone repository_name
+	git clone repository_name
 
-then copy the Code in the htdocs of XAMPP
+	then copy the Code in the htdocs of XAMPP
 
-run XAMPP and then access the index.php file by goingo to "localhost/code/"
+	run XAMPP and then access the index.php file by goingo to "localhost/code/"
 
 The Credntials are:
 	
- admin:password
- test:test
+	 admin:password
+
+	 test:test
 
 Funcionality:
 
